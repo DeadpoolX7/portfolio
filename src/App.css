@@ -9,7 +9,7 @@
 
 
 .profile-image {
-  background-image: url('./src/assets/IMG20231118163007_Cartoonize Effect.jpg');
+  background-image: url('/public/IMG20231118163007_Cartoonize Effect.jpg');
   background-size: cover;
   background-position: center;
 }
