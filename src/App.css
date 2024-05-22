@@ -1,0 +1,28 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+ */
+
+
+
+.profile-image {
+  background-image: url('src/assets/IMG20231118163007_Cartoonize Effect.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+
+html{
+  scroll-behavior: smooth;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;  
+  scrollbar-width: none;  
+}
