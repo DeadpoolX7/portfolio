@@ -29,7 +29,7 @@ export default function Project() {
         {projects.map((project, index) => (
   <div key={index} className="flex-shrink-0 w-64 bg-white bg-opacity-20 backdrop-blur-lg rounded-lg shadow-md p-4 border border-white border-opacity-30">
     <img src={project.image} alt={project.title} className="w-full h-40 object-cover rounded-md mb-4" />
-    <h2 className="text-xl font-bold mb-2 ">{project.title}</h2>
+    <h2 className="text-xl font-bold mb-2 text-center">{project.title}</h2>
     <p className=" mb-4 text-white text-center">{project.subtitle}</p>
     <div className="flex justify-between">
       <a href={project.website} className="cursor-pointer text-blue-500 hover:underline text-lg font-semibold">Website</a>
