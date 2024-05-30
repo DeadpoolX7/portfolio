@@ -10,7 +10,11 @@
 
 .profile-image {
 
+<<<<<<< HEAD
   background-image: url('public/IMG20231118163007_Cartoonize Effect.jpg');
+=======
+  background-image: url('../public/IMG20231118163007_Cartoonize\ Effect.jpg');
+>>>>>>> 464aa2f210c240b01112851b1e1cc33ee0c93a1b
 
   background-size: cover;
   background-position: center;
