@@ -43,7 +43,7 @@ const Hero = () => {
       <section>
       <div className="  p-4 rounded-lg ">
         <h1 className='text-white text-center text-3xl underline mb-3'>About</h1>
-        <p className="text-white text-lg text-center">
+        <p className="text-white text-lg text-center selection:bg-amber-600">
           Greetings! I'm <span className=''>Sanju Shaw</span> a passionate Web Developer from Kolkata, India.<br/> 
           With a strong foundation in both frontend and backend technologies,
           <br/> I love to build projects that make a difference.<br/> 

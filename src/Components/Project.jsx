@@ -32,8 +32,8 @@ export default function Project() {
     <h2 className="text-xl font-bold mb-2 text-center">{project.title}</h2>
     <p className=" mb-4 text-white text-center">{project.subtitle}</p>
     <div className="flex justify-between">
-      <a href={project.website} className="cursor-pointer text-blue-500 hover:underline text-lg font-semibold">Website</a>
-      <a href={project.github} className="cursor-pointer text-blue-500 hover:underline text-lg font-semibold">GitHub</a>
+      <a href={project.website} target='_blank' className="cursor-pointer text-blue-500 hover:underline text-lg font-semibold">Website</a>
+      <a href={project.github_repo} target='_blank' className="cursor-pointer text-blue-500 hover:underline text-lg font-semibold">GitHub</a>
     </div>
   </div>
 ))}

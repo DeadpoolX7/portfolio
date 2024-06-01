@@ -11,7 +11,7 @@ export const projects = [
         image:'https://github.com/DeadpoolX7/CodePen/raw/main/Quotopia/Screenshot%20(3).png',
         title:'CodePen Clone',
         subtitle:'CodePenClone is a web-based code editor built with React, Tailwind CSS, and Ace Editor, allowing users to write and preview HTML, CSS, and JavaScript code in real-time.',
-        website:'',
+        website:'https://codepen-pmfy.onrender.com',
         github_repo:'https://github.com/DeadpoolX7/CodePen',
     },
     {
