@@ -41,9 +41,9 @@ const Contact = () => {
   };
 
   return (
-    <section id="Contact" className="min-h-screen bg-gradient-to-r from-slate-600 via-zinc-400 to-gray-800 flex flex-col items-center justify-center">
+    <section id="Contact" className="min-h-screen bg-gray-800 flex flex-col items-center justify-center  border-sky-600 border-y-2">
       <h1 className="text-4xl font-bold mb-8 underline shadow-xl">Contact Me</h1>
-      <form onSubmit={sendEmail} className="w-full max-w-lg  p-8 rounded-lg shadow-2xl">
+      <form onSubmit={sendEmail} className="w-full max-w-lg  p-8 rounded-lg shadow-2xl  animated-border">
         <div className="mb-4">
           <label className="block text-lg font-bold mb-2" htmlFor="from_name">
            Full Name

@@ -28,3 +28,30 @@ html{
   -ms-overflow-style: none;  
   scrollbar-width: none;  
 }
+
+.animated-border{
+  border:3px solid;
+  animation: borderRotate  2s infinite linear;
+}
+
+@keyframes borderRotate {
+  0% {
+    
+      border-left-color: #e08823; /* Red */
+      border-top-color: rgb(36, 236, 46);
+      border-right-color: rgb(214, 46, 219);
+      border-bottom-color: rgb(228, 224, 32);
+  }
+  50%{
+    border-left-color: rgb(228, 224, 32);
+    border-top-color:#e08823 ;
+    border-right-color: rgb(36, 236, 46);
+    border-bottom-color: rgb(214, 46, 219);
+  }
+  100%{
+    border-left-color: blueviolet;
+    border-top-color: rgb(27, 130, 214);
+    border-right-color: #d32323;
+    border-bottom-color: rgb(60, 68, 184);
+  }
+}

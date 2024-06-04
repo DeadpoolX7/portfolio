@@ -12,8 +12,8 @@ const Navbar = ({activeSection})=>{
 
 
     return(
-      <header className="bg-gray-800 pb-5">
-      <div className="flex justify-between items-center px-4  relative">
+      <header className="bg-gray-800 pb-5 border-sky-600 border-b-2">
+      <div className="flex justify-between items-center px-4  relative ">
         <div className="w-max">
           <h2 className="text-2xl text-white">Sanju Shaw</h2>
         </div>

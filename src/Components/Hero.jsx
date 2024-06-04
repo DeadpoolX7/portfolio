@@ -42,9 +42,9 @@ const Hero = () => {
       </div>
       <section>
       <div className="  p-4 rounded-lg ">
-        <h1 className='text-white text-center text-3xl underline mb-3'>About</h1>
-        <p className="text-white text-lg text-center selection:bg-amber-600">
-          Greetings! I'm <span className=''>Sanju Shaw</span> a passionate Web Developer from Kolkata, India.<br/> 
+        <h1 className='text-white text-center text-3xl underline mb-3 '>About</h1>
+        <p className="text-white text-lg  text-center selection:bg-amber-600">
+          Greetings! I'm <span className=''>Sanju Shaw</span> a passionate Web Developer and a Writer on <a href="https://medium.com/@sanjushaw" target='_blank' className='underline text-xl hover:no-underline'>Medium</a> from <b>Kolkata, India </b> <br/> 
           With a strong foundation in both frontend and backend technologies,
           <br/> I love to build projects that make a difference.<br/> 
            Let's collaborate and bring amazing ideas to life!
