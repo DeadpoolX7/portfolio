@@ -36,7 +36,7 @@ const Hero = () => {
   return (
     <>
     <div id='Home' className="hero bg-black h-screen flex flex-col items-center justify-center">
-      <div className="profile-image ring-4 ring-blue-700 bg-gray-300 rounded-full w-40 h-40 mb-6"></div>
+      <div className="profile-image ring-4 ring-blue-700 bg-gray-300 rounded-full w-40 h-40 mb-6 "></div>
       <div className=" w-full text-center h-10">
         <p className="text-white text-2xl selection:bg-green-500 font-serif">{text}</p>
       </div>

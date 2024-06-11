@@ -12,11 +12,15 @@ const Navbar = ({activeSection})=>{
 
 
     return(
-      <header className="bg-gray-800 pb-5 border-sky-600 border-b-2">
+      <header className="bg-gray-800 pb-5 border-sky-600 border-b-2 ">
       <div className="flex justify-between items-center px-4  relative ">
         <div className="w-max">
           <h2 className="text-2xl text-white">Sanju Shaw</h2>
         </div>
+        <div className='mt-2'>
+        <button className='bg-green-500 px-4 py-2 text-xl rounded-full font-bold text-slate-900  transition-all  hover:border-2 hover:border-white ' onClick={() => window.open("https://tasteful-pound-543.notion.site/Sanju-Shaw-b6034961e6114e3fb3a88b2b94cf5cdc", "_blank")}>
+        Resume
+        </button></div>
         <div className="md:hidden relative">
           <button onClick={toggleMenu} className="text-white focus:outline-none">
             {isOpen ? <FaTimes size={24} /> : <FaBars size={24} />}
