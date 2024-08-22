@@ -4,7 +4,7 @@
 export const techStack = [
     {
       name: 'React',
-      image: 'https://imgs.search.brave.com/kI0vc8Kx-7cfMJhB1WNXfRC909xVeMTqQ4Z44yxi85U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/cmVhY3Quc3Zn.svg',
+      image: 'icons8-react.svg',
     },
     {
       name: 'Tailwind CSS',
@@ -24,7 +24,7 @@ export const techStack = [
     },
     {
         name:'AppWrite',
-        image:'https://imgs.search.brave.com/O1q35Eatg03Zlv2aoUE2reZa6JYz_OefxkHzob7ZGhk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hcHB3/cml0ZS5pby9hc3Nl/dHMvbG9nb21hcmsv/bG9nby5zdmc.svg'
+        image:'appwrite.svg'
     },
     {
         name:'NodeJS',
@@ -32,11 +32,15 @@ export const techStack = [
     },
     {
       name:'C',
-      image:'https://imgs.search.brave.com/ClxMpRI7b2ekovzucgQaqb85Wkf3e9DQpZd0_Meev7M/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9jLTEuc3Zn.svg'
+      image:'icon-C.svg'
     },
     {
       name:'Python',
       image:'https://imgs.search.brave.com/8-8oAD6jzHKqO6WTV6XaQ1AJZO_DITrF0uoAVo5dlfo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zMy5k/dWFsc3RhY2sudXMt/ZWFzdC0yLmFtYXpv/bmF3cy5jb20vcHl0/aG9uZG90b3JnLWFz/c2V0cy9tZWRpYS9j/b21tdW5pdHkvbG9n/b3MvcHl0aG9uLWxv/Z28tb25seS5wbmc'
     },
+    {
+      name:"Java",
+      image:'/icons8-java.svg'
+    }
   ];
   

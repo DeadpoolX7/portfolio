@@ -2,12 +2,12 @@
 export const Social = [
     {
         icon_name:'Github',
-        image:'https://imgs.search.brave.com/KXL45Ky6mn4L5JZiL_5V069ITX6UnIz6ZTlN8LGDJfI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9HaXRIdWIv/R2l0SHViLUljb24t/V2hpdGUtRGFyay1C/YWNrZ3JvdW5kLUxv/Z28ud2luZS5zdmc.svg',
+        image:'/icons8-github (2).svg',
         link:'https://github.com/DeadpoolX7',
     },
     {
         icon_name:'LinkedIn',
-        image:'https://imgs.search.brave.com/uGDtHsxME6trYi3Pg1IQoYBs0ZNStLg4fOwcz9gYrwo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n',
+        image:'/icons8-linkedin-32.png',
         link:'https://www.linkedin.com/in/sanju-shaw-225ab4214/',
     },
     {
