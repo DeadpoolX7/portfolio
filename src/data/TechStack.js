@@ -41,6 +41,10 @@ export const techStack = [
     {
       name:"Java",
       image:'/icons8-java.svg'
+    },
+    {
+      name:"MySQL",
+      image: "https://imgs.search.brave.com/sSm1Tf-oi1eKoozVN8ZAh97PqzKE18ng2SFUmoTs2w4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtMy8x/ODEvTXlTUUwtNTEy/LnBuZw"
     }
   ];
   

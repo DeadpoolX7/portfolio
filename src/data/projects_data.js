@@ -8,6 +8,13 @@ export const projects = [
         github_repo:'https://github.com/DeadpoolX7/WhatToCook',
     },
     {
+        image:'https://github.com/DeadpoolX7/Classy-Text/raw/main/Screenshot%202024-11-01%20134116.png',
+        title:'Classy-Text CDN',
+        subtitle:'Classy-Text is a lightweight, fast CDN that elevates Font style effortlessly with fun & easy to use semantic syntax based approach.',
+        website:'http://classy-text.netlify.app',
+        github_repo:'https://github.com/DeadpoolX7/Classy-Text/tree/main',
+    },
+    {
         image:'https://github.com/DeadpoolX7/CodePen/raw/main/Quotopia/Screenshot%20(3).png',
         title:'CodePen Clone',
         subtitle:'CodePenClone is a web-based code editor built with React, Tailwind CSS, and Ace Editor, allowing users to write and preview HTML, CSS, and JavaScript code in real-time.',
@@ -30,7 +37,7 @@ export const projects = [
     },
 
     {
-        image:'https://private-user-images.githubusercontent.com/102269992/296991775-cc469ef8-6d4e-4b32-b257-f956a540c9ee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYzNzMwMjEsIm5iZiI6MTcxNjM3MjcyMSwicGF0aCI6Ii8xMDIyNjk5OTIvMjk2OTkxNzc1LWNjNDY5ZWY4LTZkNGUtNGIzMi1iMjU3LWY5NTZhNTQwYzllZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyMlQxMDEyMDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZGNmNzU0YjQ4MDFiMGE3YjJkMjA1YjJlMzg4NmY4NWQ2YTU3NGQxMDdlNGI2NDhlMzdjN2RjOTllMGUyNmUyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kAHVuvtD9RMcEeR6E3DRJOZYbBf355PyJ6nU_Gx1090',
+        image:'https://github.com/DeadpoolX7/ShopaHolic-/raw/main/Screenshot%202024-01-15%20114626.png',
         title:'ShopaHolic',
         subtitle:'Single page E-commerce website made using Bootstrap and HTML',
         website:'https://shopaholic-site.netlify.app/',
